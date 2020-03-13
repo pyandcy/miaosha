@@ -1,2 +1,4 @@
 # miaosha
 基于SpringBoot的秒杀系统
+
+在学习了SpringBoot之后的一个练手demo,练习一下如何利用SpringBoot快速搭建web项目，项目中用到了mybatis-generator生成相关的dataObject,  还用到了redis来缓存验证码。
